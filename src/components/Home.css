@@ -1,0 +1,29 @@
+.home_page{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: Verdana;
+    text-transform: uppercase;
+    background: #3c041e;
+    height: 100vh;
+}
+.home_page>h1{
+    margin-bottom: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+}
+.home_page>p{
+    color: rgb(12, 143, 214);
+}
+
+.book_btn{
+    padding: 10px 90px !important;
+    color: #fff !important;
+    background: rgb(255, 6, 159) !important;
+    margin-top: 40px !important;
+    font-family: monospace !important;
+    font-size: 20px !important;
+    border-radius: 50px !important;
+    text-transform: uppercase !important;
+}
